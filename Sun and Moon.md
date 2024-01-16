@@ -5,6 +5,9 @@ Kenji Ishida
 Kai - gender neutral assisant of detective. Likes paninis from Press
 
 We think it's Elanor the whole time, but turns out they both conspired together.
+Diane brought Ken to the street where Elanor drove the car.
+
+Car used: coupe deville, black convertable cadillac
 
 # Theme
 Both Elanor and Diane feel invisible in their relationship. They feel resentment
