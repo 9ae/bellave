@@ -34,22 +34,23 @@ Elanor: What can I do?! *yells back*
 
 Kai: *startled by Elanor's response*
 
-Elanor: It feels no matter what I do, no matter how hard I try. Our marriage is bonded to sail off the end of the earth. it's just... we were going to work things out. He finally agree to see counseling together.
-
-Kai: Uh no, not the one next door...
-
-Elanor: No, someone from church recommend us a guy from Auburndale.
+Elanor: It feels no matter what I do, no matter how hard I try. Our marriage is bonded to sail off the end of the earth.
 
 
 # S 2: noon Diane
 > Mentions lunch form Press
 Starts to hint that Diane knows Elanor
 Gets into the details of Ken's murder - he was hit by a black cadallac 
-We see that Diane was really in love with someone (with whom, it's never clarified)
+We see that Diane was really in love with someone (with whom, it's never clarified).
+We are starting suspect Diane too.
 
 # S 3: evening Elanor
 > Shows how Elanor was feeling about the whole situation
-> Kai finally catches Elanor in a lie. Seems like we have the killer
+> Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
+
+ Elanor: it's just... we were going to work things out. He finally agree to see counseling together.
+
+Kai: Uh no, not the one next door? She's a quack, just skip the formalities and go see the one in the basement if you really want to fix your marriage.
 
 Kai: Did you kill Kenji Ishida?
 
@@ -57,6 +58,7 @@ Elanor: *looks down and diverts her gaze*
 
 # S 4: night Diane
 > Elanor's feelings from the last scene are reflected back
+> Diane is wearing the same shaw as Elanor from the previous scene.
 
 Diane: No, because I killed Kenji Ishida.
 
