@@ -18,6 +18,29 @@ Both Elanor and Diane feel invisible in their relationship. They feel resentment
 Elanor plays the part of a grieving widow well
 ends with she reveals he knows he a mistress
 
+*In a room with no windows sits an KAI and ELANOR. There's a half empty box of tissues and by it a trash can filled with them.*
+
+Kai: So Thursday night was the last time you saw Kenji Ishida?
+
+Elanor: *sniffs and nods* Yes. After our fight, he stormed out. *cries again* I wish those weren't our last words.
+
+Kai: What he say anything when he left?
+
+Elanor: Nothing *sniff sniff*  When he's angry, he just shuts down. He becomes a statue, it's impossible to get through to him, he won't even look at you.
+
+Kai: What do you do then?
+
+Elanor: What can I do?! *yells back* 
+
+Kai: *startled by Elanor's response*
+
+Elanor: It feels no matter what I do, no matter how hard I try. Our marriage is bonded to sail off the end of the earth. it's just... we were going to work things out. He finally agree to see counseling together.
+
+Kai: Uh no, not the one next door...
+
+Elanor: No, someone from church recommend us a guy from Auburndale.
+
+
 # S 2: noon Diane
 > Mentions lunch form Press
 Starts to hint that Diane knows Elanor
@@ -25,7 +48,7 @@ Gets into the details of Ken's murder - he was hit by a black cadallac
 We see that Diane was really in love with someone (with whom, it's never clarified)
 
 # S 3: evening Elanor
-> Shows how Elanor was feeling about the whote situation
+> Shows how Elanor was feeling about the whole situation
 > Kai finally catches Elanor in a lie. Seems like we have the killer
 
 Kai: Did you kill Kenji Ishida?
