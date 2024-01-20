@@ -5,6 +5,7 @@ apologizes alot
 cries throughout first scene
 She had high expectations of her relationship, and was consistently let down with reality. 
 Sits with her ankles crossed
+She's kindergarten teacher
 
 ## Diane Sun
 Ice queen, says everything with a straight face
@@ -50,6 +51,25 @@ Kai: *startled by Elanor's response*
 
 Elanor: It feels no matter what I do, no matter how hard I try. Our marriage is bonded to sail off the end of the earth.
 
+Kai: Why do you say that?
+
+Elanor: *cries, hiccups*. We've been struggling for a long time. *blows noses into tissue* It isn't suppose to be like this! When we first met, we were so right for each other. And in this vast world, we've found each other.
+
+Kai: So what changed?
+
+Elanor: Ken, though all these years he just kept on changing. And I feel that he just left me behind. He couldn't even wait for me, he had to die first.
+
+Kai: Regarding that, do you think he's planned it?
+
+Elanor: What do you mean? He killed himself, how could he have not planned it?!
+
+Kai: Yes, the police ruled it as a suicide. There was a note, and __blank__ is a common method of death one can self administer. But his sister thinks otherwise. That's why I am talking to you today, to get a better understanding of the circumstances of your late husband's life.
+
+Elanor: Kisaki has always had it out for me. At the funeral, she directly accused me. In front of the whole family.
+
+Kai: What did she say?
+
+Elanor:  *burst out into tears again* That I poisoned him out of jealousy, when I found out about his affair.
 
 # S 2: noon Diane
 > Mentions lunch form Press
