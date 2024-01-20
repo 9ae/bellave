@@ -1,8 +1,20 @@
 # Characters
-Elanor (Taeyang) Moon
-Diane Sun
-Kenji Ishida
-Kai - gender neutral assisant of detective. Likes paninis from Press
+## Elanor (Taeyang) Moon
+soft spoken
+apologizes alot
+cries throughout first scene
+She had high expectations of her relationship, and was consistently let down with reality. 
+Sits with her ankles crossed
+
+## Diane Sun
+Ice queen, says everything with a straight face
+Is carefree
+Jaded but still hopefully idealistic
+Sits with her knees crossed. She's in mourning dress, because she's not allowed to go to the funeral.
+
+## Kenji Ishida
+## Kai
+gender neutral assisant of detective. Likes paninis from Press
 
 We think it's Elanor the whole time, but turns out they both conspired together.
 Diane brought Ken to the street where Elanor drove the car.
@@ -12,7 +24,9 @@ Car used: coupe deville, black convertable cadillac
 # Theme
 Both Elanor and Diane feel invisible in their relationship. They feel resentment
 
-# Scene 1: morning Elanor
+> The polices ruled it as a suicide, but Ken's sister (Kisaki) thinks otherwise, thus hired Ramos to investigate.
+
+# S 1: morning Elanor
 
 > Est she's his wife
 Elanor plays the part of a grieving widow well
@@ -45,6 +59,9 @@ We see that Diane was really in love with someone (with whom, it's never clarifi
 We are starting suspect Diane too.
 
 # S 3: evening Elanor
+> Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
+
+
 > Shows how Elanor was feeling about the whole situation
 > Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
 
