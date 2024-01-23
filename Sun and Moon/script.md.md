@@ -71,12 +71,26 @@ Kai: What did she say?
 
 Elanor:  *burst out into tears again* That I poisoned him out of jealousy, when I found out about his affair.
 
+> Elanor doesn't come out straight to say it straight, it is revealed.
+> Kai knew about Diane
+
 # S 2: noon Diane
 > Mentions lunch form Press
 Starts to hint that Diane knows Elanor
-Gets into the details of Ken's murder - he was hit by a black cadallac 
 We see that Diane was really in love with someone (with whom, it's never clarified).
-We are starting suspect Diane too.
+We are starting suspect Diane too, because she talks about feeling resentment about the situation
+
+*Diane sits cross legged with one of her legs swinging. She is fully dressed in black. On the table is a hat with a mesh vail. Kai enters the room with a brown bag.*
+
+Kai: Are you sure you're not hungry? *takes a panini sandwich out of the bag* 
+
+Diane: *wrinkles her nose and eyes the sandwich* No, I'm fine.
+
+Kai: *raises half of the sandwich as if to toast, and her eyebrows* Next time, you're in the neighborhood. You must try Press, best panini shop in Queens.
+
+Diane: I don't frequent this area often, but thank you. I'm sure you didn't have me come this far out for lunch.
+
+Kai: Right, *opens their laptop*  
 
 # S 3: evening Elanor
 > Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
