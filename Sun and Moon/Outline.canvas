@@ -14,14 +14,14 @@
 		{"id":"b75b1400dd5ffb26","type":"text","text":"Why did they do it?","x":780,"y":-238,"width":410,"height":60,"color":"5"},
 		{"id":"1e44b85d2653d439","type":"text","text":"Who are the characters individually?","x":-580,"y":-80,"width":425,"height":60,"color":"2"},
 		{"id":"f1e70cca493fe252","type":"text","text":"Why did they make sense together?","x":445,"y":-80,"width":425,"height":60,"color":"2"},
-		{"id":"f8b14f3bbf1ec5f4","type":"text","text":"How did they meet?","x":-80,"y":-80,"width":480,"height":60,"color":"2"},
 		{"id":"c1096202e4462c18","type":"text","text":"Ken suicide. But can be a murder. Elanor is a suspect","x":-580,"y":40,"width":250,"height":100,"color":"5"},
 		{"id":"cfa87af656c762af","type":"text","text":"What makes Diane also a suspect?","x":-280,"y":60,"width":250,"height":60,"color":"5"},
-		{"id":"ac2f12cb92d69446","x":-280,"y":180,"width":250,"height":120,"color":"5","type":"text","text":"Where does Kai start questioning\nWhat do they believe now?"},
-		{"id":"7a0d75ffff3f797c","x":-280,"y":340,"width":250,"height":60,"color":"5","type":"text","text":"Elanor killed Ken. Find proof"},
-		{"id":"07221178460c859e","x":-280,"y":440,"width":250,"height":140,"color":"5","type":"text","text":"Verify that she doesn't think he committed suicide. Tries to see if she can get Diane to pin Elanor"},
-		{"id":"58c93632c371f22a","x":-280,"y":620,"width":250,"height":154,"color":"2","type":"text","text":"But Diane just does the opposite. \"If you loved someone would you....\"\n(diane empathizes with elanor)"},
-		{"id":"c237c40b5717efae","x":-280,"y":823,"width":250,"height":60,"color":"5","type":"text","text":"Diane is resentful of Ken"}
+		{"id":"ac2f12cb92d69446","type":"text","text":"Where does Kai start questioning\nWhat do they believe now?","x":-280,"y":180,"width":250,"height":120,"color":"5"},
+		{"id":"7a0d75ffff3f797c","type":"text","text":"Elanor killed Ken. Find proof","x":-280,"y":340,"width":250,"height":60,"color":"5"},
+		{"id":"07221178460c859e","type":"text","text":"Verify that she doesn't think he committed suicide. Tries to see if she can get Diane to pin Elanor","x":-280,"y":440,"width":250,"height":140,"color":"5"},
+		{"id":"58c93632c371f22a","type":"text","text":"But Diane just does the opposite. \"If you loved someone would you....\"\n(diane empathizes with elanor)","x":-280,"y":620,"width":250,"height":154,"color":"2"},
+		{"id":"c237c40b5717efae","type":"text","text":"Diane is resentful of Ken","x":-280,"y":823,"width":250,"height":60,"color":"5"},
+		{"id":"f8b14f3bbf1ec5f4","type":"text","text":"How did they meet?\nThey both describe killing for love. We thought they were talking about Ken, but we slowly discover the person they love is eachother.","x":-95,"y":-110,"width":480,"height":120,"color":"2"}
 	],
 	"edges":[
 		{"id":"86488d7cd9592482","fromNode":"17accd1f70891423","fromSide":"right","toNode":"a4038370f72cedd0","toSide":"left"},
