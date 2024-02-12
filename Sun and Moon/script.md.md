@@ -13,9 +13,15 @@ Is carefree
 Jaded but still hopefully idealistic
 Sits with her knees crossed. She's in mourning dress, because she's not allowed to go to the funeral.
 
+Diane wants a meet cute, she wants the story with her soulmate to be a story you can tell.
+
 ## Kenji Ishida
 ## Kai
 gender neutral assisant of detective. Likes paninis from Press
+
+voice of reason. Their arc is being consistently reminded that people in these situations are not reasonable. At the end they decide to rule Ken's death a suicide, even though they have enough evidence to get Diane and Elanor in for manslaughter. 
+
+---
 
 We think it's Elanor the whole time, but turns out they both conspired together.
 Diane brought Ken to the street where Elanor drove the car.
@@ -26,6 +32,10 @@ Car used: coupe deville, black convertable cadillac
 Both Elanor and Diane feel invisible in their relationship. They feel resentment
 
 > The polices ruled it as a suicide, but Ken's sister (Kisaki) thinks otherwise, thus hired Ramos to investigate.
+
+## Deconstruct tropes
+femme fatale => hopeless romantic
+damsel in distress => the practical woman
 
 # S 1: morning Elanor
 
@@ -91,6 +101,18 @@ Kai: *raises half of the sandwich as if to toast, and her eyebrows* Next time, y
 Diane: I don't frequent this area often, but thank you. I'm sure you didn't have me come this far out for lunch.
 
 Kai: Right, *opens their laptop*  
+
+> Flashback: How Diane met Ken. She walked into him doing push ups on the pantry floor and steps on his hands by accident.
+> Ken: *sees she has  puffy eyes* What happened?
+> Diane: First first date fails. You know how it is on the apps...
+> Ken: No, actually. I've never been on the apps
+> Diane: Oh, really?
+> Diane start telling him about her experience. Ken started living vicariously through Diane
+
+> Kai: My friends tell me guys on the apps are the worst.
+> Diane:  It's not just guys *raises her eyes at Kai*
+> Kai: Oh...
+> Diane: Women have ghosted me more, actually
 
 # S 3: evening Elanor
 > Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
