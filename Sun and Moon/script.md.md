@@ -43,9 +43,25 @@ Kai: Why do you say that?
 
 Elanor: *cries, hiccups*. We've been struggling for a long time. *blows noses into tissue* It isn't suppose to be like this! When we first met, we were so right for each other. And in this vast world, we've found each other.
 
-Kai: So what changed?
+Kai: When do you two meet?
 
-Elanor: Ken, though all these years he just kept on changing. And I feel that he just left me behind. He couldn't even wait for me, he had to die first.
+Elanor: Junior year...
+
+Kai: So yo met in college?
+
+Elanor: Highschool, we were each other's first... *paused* first and only.... *looks sternly at the table and grips into her tissue hard*
+
+Kai: *pushes a cup to tea towards Elanor* take your time. And you guys have been together since then?
+
+Elanor: *nods* We got married, straight after college. My parents loved him, and in their mind why wait. When you've found the one, that's it. 
+
+Kai: Did you think he was the one?
+
+Elanor: *long pause* I used to think... that I was so lucky. That the guy I liked, liked me back. I mean isn't that rare? Normally crushes are one sided. I saw all my friends in high school get their hearts broken so many times. But lately, I've been wondering if I've been missing out on life because we got lucky.
+
+Kai: Why have you been wondering?
+
+Elanor: Ken, though all these years he just kept on changing. Maybe it's because I'm an elementary school teacher, but I essentially feel like the same person year after year. And I feel that he just left me behind. He couldn't even wait for me, he had to die first.
 
 Kai: Regarding that, do you think he's planned it?
 
