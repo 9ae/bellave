@@ -224,18 +224,52 @@ Elanor: Is that why?
 
 Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
 
+*The shadow dancers fade and we come back into focus with Elanor and Kai in the room*
+
 `Elanor confronts Ken`
 
- Elanor: it's just... we were going to work things out. He finally agree to see counseling together.
+Kai: So Diane confirmed your suspicious...
+
+Elanor: *nods* that night I told Ken, that I knew everything.
+
+Kai: Did he try to deny it?
+
+Elanor: No, *smiles* he got on his knees and begged me to forgive him.
+
+Kai: Forgiveness is yours to give, not for him to ask for.
+
+Elanor: There was a part of me that wanted to use this as an excuse to get a divorce. But he's the only love I've never known, so maybe it's worth a fight. He even agree to see counseling together.
 
 Kai: Uh no, not the one next door? She's a quack, just skip the formalities and go see the one in the basement if you really want to fix your marriage.
 
-`Elanor w/ Diane's stuff`
+Elanor: If only we knew that sooner... so we really tried to work things out. I told him to never see Diane again.
+
+# S: Diane
+
+Diane: That night Ken called me four times. The first three times, I let it go to voicemail. I knew what was coming.
+
+Kai:  Why did you finally answer.
+
+Diane: I guess I wanted closer. Even if I knew why, I still needed to hear the words from him.
+*holds the veil on her hat over her eyes* he said he wanted to give me back my things.
+
+# S: Elanor
+
+Shadow Elanor: *looks over a Pucca & Garu dufflel bag* So that's everything?
+
+Shadow Kens: *nods*
+
+Elanor: After I give her back her things, I think great this woman will be out of our lives.
 
 
-Kai: Did you kill Kenji Ishida?
+- [ ] Elanor w/ Diane's stuff
 
-Elanor: *looks down and diverts her gaze* It was an accident
+
+
+
+> Kai: Did you kill Kenji Ishida?
+> 
+> Elanor: *looks down and diverts her gaze* It was an accident
 
 # Intermission
 
