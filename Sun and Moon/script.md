@@ -152,28 +152,77 @@ Shows how Elanor was feeling about the whole situation
 Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
 ```
 
-Elanor: I sometimes wonder how my life would have turned out, if Ken and I didn't get married so young. *she looks into the distance* I got into Julliard, you know? After the conservatory, if I didn't go for a teaching masters.
+Elanor: She was not the woman, I'd expected.
 
-Kai: I things could have turned out differently.
+Kai: What had you expected?
 
-Elanor: Yea. But then I scold myself for not appreciating the life I do have. Ken works very hard at stressful job, while I provide stability with mine. I couldn't let him know how often I wonder about it though. He'll ask me what I'm thinking, and I'll tell him 'nothing'. But I guess he knew, because he started to withdraw himself too.
+Elanor: I didn't expect the other woman to be someone rather awkward; she looked so normal, fuzzy sweater and hippo slippers. 
 
-Kai: How did you sense it?
+Kai: People always expects the mistress to be a beautiful seductress, but most of the time she's just a woman desperate to be loved.
 
-Elanor: He stopped talking to me about anything beyond the logistics of living together.
-"I'll be home late."
-"Can you pick up apple juice from the store?"
+Elanor: *sighs and softens her eyes*, yea, Diane... is the type to open her heart to just about anyone. *lost in a daze*
 
-`mv this to her talk w/ Diane`
+# S: Diane
 
-`Elanor & Diane meet`
+Kai: Did you know who she was?
 
-Elanor: She was not the woman, I'd expected. Maybe I caught her at a bad time, since I did show up to her place announced. When she answered the door, I had not expected someone so... plain and ... kinda awkward.
+Diane: No, at first I though she was some bible peddler. They still do that you know? Go from door to door. She looked at me up and down.
 
-Kai: People always expects the mistress to be a beautiful seductress, but most of the time she's just a normal woman desperate to be loved, in whatever way she can get.
+*Shadows: Elanor steps forward and closes in on Diane, she puts her nose towards Diane's neck.*
 
-Elanor: *breaks into a shy smile* she has charm, I'll give you that. 
+Diane: Then she said "why do I smell my husband's after shave on you?" And I can tell it wasn't a question. *her face started to turn red* It all came crumbling in. *hiccup* The reality of what I thought was my romance. *hiccup* all this time his wife felt like an abstract concept, but there she was right in front of me. If she were to physically hurt me, right then and there. I would have let her.
 
+Kai: Did she?
+
+Diane: *started to gather herself a bit* No, she...
+
+# S: Elanor
+
+Elanor: I lost it and broke down crying at her doorstep that afternoon. She invited me in, a stranger, who had every reason to hurt her. She drew up a warm face towel, and brewed tea.
+
+*Shadow Diane pulls shadow Elanor into a dance, they begin a slow mirrored choreography*
+
+Elanor: Apparently, Ken told her that I was planning on leaving him.
+
+Kai: Were you?
+
+Elanor: No! At least not back then.
+
+*Focuses on the shadows of Elanor and Diane in a dance, as they speak*
+
+Elanor: I sometimes wonder how my life would have turned out, if Ken and I didn't get married so young.
+
+Diane: You two were lucky, the rest of us out there are trying to find the one in an ocean of a endless choices. It's the endless choices that makes commitment hard.
+
+Elanor: Hah, you can say that but... did you know I got into Julliard? What if I had persuade being a professional violinist instead of getting a masters in education.
+
+Diane: Do you still play?
+
+Elanor: I wish, if only there was more time. One thing they never tell you is that homework never ends, even if you aren't the student.
+
+Diane: Do you regret being a teacher?
+
+Elanor: The kids are sweet, but I mostly regret marrying. Because if I didn't our family would have let me pursue music. But they said it's better this way. Ken works very hard at stressful job, while I provide stability with mine.
+
+Diane: Yea, his boss is always breathing down his neck.
+
+Elanor: When he gets home, he's just a zombie. But I tell myself maybe that's ok, and maybe he won't notice, my doubts about our marriage.
+
+Diane: How long have you been feeling this way?
+
+Elanor: I can't remember. But when I feel this way I scold myself for not appreciating the life I do have.
+
+Diane: You can't help the way you feel. And you can't force yourself into a feeling a certain way, just because that's what you think you should feel.
+
+Elanor: What if the way I feel will hurt him? I can't let him know.
+
+Diane: But he knows something is up, he seems to think you're planning to leave him.
+
+*the music stops, the two dancers separate*
+
+Elanor: Is that why?
+
+Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
 
 `Elanor confronts Ken`
 
