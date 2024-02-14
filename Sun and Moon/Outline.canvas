@@ -17,7 +17,7 @@
 		{"id":"1e44b85d2653d439","type":"text","text":"Who are the characters individually?","x":-580,"y":30,"width":425,"height":60,"color":"6"},
 		{"id":"f1e70cca493fe252","type":"text","text":"Why did they make sense together?","x":445,"y":30,"width":425,"height":60,"color":"6"},
 		{"id":"f8b14f3bbf1ec5f4","type":"text","text":"How did they meet?\nThey both describe killing for love. We thought they were talking about Ken, but we slowly discover the person they love is eachother.","x":-95,"y":0,"width":480,"height":120,"color":"6"},
-		{"id":"a4038370f72cedd0","type":"text","text":"How did Diane know Ken?\n...\nElanor visits Diane","x":-280,"y":-240,"width":250,"height":100,"color":"5"},
+		{"id":"a4038370f72cedd0","type":"text","text":"How did Diane know Ken?\n...\nElanor visits Diane","x":-280,"y":-240,"width":250,"height":140,"color":"5"},
 		{"id":"db16c6c901ce9f72","type":"text","text":"S 3: Elanor","x":20,"y":-360,"width":250,"height":50},
 		{"id":"2aa13061aa1a25f6","type":"text","text":"Elanor's visti w/ Diane.\nElanor confronts Ken about affair.\nWhat Elanor does with Diane's stuff.\n\n","x":20,"y":-240,"width":250,"height":140,"color":"5"},
 		{"id":"c8aa188ce6cc08c2","type":"text","text":"Intermission","x":320,"y":-360,"width":250,"height":50},

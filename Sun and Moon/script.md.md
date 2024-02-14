@@ -86,27 +86,61 @@ We are starting suspect Diane too, because she talks about feeling resentment ab
 
 *Diane sits cross legged with one of her legs swinging. She is fully dressed in black. On the table is a hat with a mesh vail. Kai enters the room with a brown bag.*
 
-Kai: Are you sure you're not hungry? *takes a panini sandwich out of the bag* 
+Kai: Sure you're not hungry? *takes a panini sandwich out of the bag* 
 
 Diane: *wrinkles her nose and eyes the sandwich* No, I'm fine.
 
-Kai: *raises half of the sandwich as if to toast, and her eyebrows* Next time, you're in the neighborhood. You must try Press, best panini shop in Queens.
+Kai: *raises half of the sandwich as if to toast, and her eyebrows* Next time, you're in the neighborhood. You gotta try Press, best panini shop in Queens.
 
 Diane: I don't frequent this area often, but thank you. I'm sure you didn't have me come this far out for lunch.
 
-Kai: Right, *opens their laptop*  
+Kai: Right, *opens their laptop*  Can you tell me about, how you've come to know Kenji Ishida?
 
-> Flashback: How Diane met Ken. She walked into him doing push ups on the pantry floor and steps on his hands by accident.
-> Ken: *sees she has  puffy eyes* What happened?
-> Diane: First first date fails. You know how it is on the apps...
-> Ken: No, actually. I've never been on the apps
-> Diane: Oh, really?
-> Diane start telling him about her experience. Ken started living vicariously through Diane
+Diane: Our companies shared and office space. *sighs, she closes her eyes. A silent moment passes*
 
-> Kai: My friends tell me guys on the apps are the worst.
-> Diane:  It's not just guys *raises her eyes at Kai*
-> Kai: Oh...
-> Diane: Women have ghosted me more, actually
+*In the silhouette  screen a female figure appears*
+
+Diane: *finally opens her eyes, her gaze is far away. Almost excitedly she smiles,* I remember that morning, I went to the pantry to get a much needed coffee. Ken was doing push up on the floor, and without realizing my heel landed on his hand.
+
+*Shadows: Diane falls as Ken flinches from the pain. She rushes to apologize, Ken laughs and motions he's fine. She laughs too.*
+
+Diane: He kept on saying he was fine, just anxious about the investor meeting today. He even noticed my eyes were puffy and asked if I was ok. I said, 'just another first date fail, you know how it is on the apps'. He said he's never been on the apps, then started asking me about what they are like. And boy did I have a library of horror stories to tell.
+
+Kai: I'm sorry, my friends tell me guys on the apps are the worst.
+
+Diane:  It's not just guys *raises her eyes at Kai, and leans toward on desk*
+
+Kai: Oh. *uncertain if Diane is trying to hit on them*
+
+Diane: *pulls back towards her set, and returns to a normal tone* Kind of to think about it, women have ghosted me more.
+
+> How Diane feel for Ken. She thought his relation was on the verge of ending
+
+Kai: So from that day, you and Ken...
+
+Diane: It was innocent at first, we were just pals. We mostly ate lunch together in the courtyard. Talked about the insanity that went on in our start ups. He wanted to hear about my dating life. I don't know why anyone would, it's pretty sad. *looks down* connecting to people is so hard, maybe it's just me. But talking to Ken, just feels so easy.
+
+Kai: Did you have feelings for him then?
+
+Diane: I don't know, maybe? When we first met in the pantry, I felt my heart flutter a bit. But it could have just been the situation. A clumsy meet cute, felt almost like we were in a rom-com. I guess something like that is hard to feel with someone you meet on the apps. Life has no happy accidents anymore. There's no magic.
+
+Kai: And you want magic?
+
+Diane: I want.... a good story.
+
+Kai: So what is this story? He listened to your stories...
+
+Diane: I think he liked them because he was living vicariously through me. He later opened up to tell me his own marriage was in shambles. And that his wife is about to leave him.
+
+*Shadow: Ken pulls Diane closer, almost as if about to kiss her*
+
+Diane: Only that was a lie. Elanor had no such intention back then.
+
+*Shadow: Diane pushes Ken away*
+
+Kai: How did you know that?
+
+Diane: Elanor came to see me.
 
 # S 3: evening Elanor
 > Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
