@@ -143,19 +143,54 @@ Kai: How did you know that?
 Diane: Elanor came to see me.
 
 # S 3: evening Elanor
-> Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
+
+*Elanor is back, same outfit as before but this time she has a silk shaw*
 
 
-> Shows how Elanor was feeling about the whole situation
-> Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
+```
+Shows how Elanor was feeling about the whole situation
+Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
+```
+
+Elanor: I sometimes wonder how my life would have turned out, if Ken and I didn't get married so young. *she looks into the distance* I got into Julliard, you know? After the conservatory, if I didn't go for a teaching masters.
+
+Kai: I things could have turned out differently.
+
+Elanor: Yea. But then I scold myself for not appreciating the life I do have. Ken works very hard at stressful job, while I provide stability with mine. I couldn't let him know how often I wonder about it though. He'll ask me what I'm thinking, and I'll tell him 'nothing'. But I guess he knew, because he started to withdraw himself too.
+
+Kai: How did you sense it?
+
+Elanor: He stopped talking to me about anything beyond the logistics of living together.
+"I'll be home late."
+"Can you pick up apple juice from the store?"
+
+`mv this to her talk w/ Diane`
+
+`Elanor & Diane meet`
+
+Elanor: She was not the woman, I'd expected. Maybe I caught her at a bad time, since I did show up to her place announced. When she answered the door, I had not expected someone so... plain and ... kinda awkward.
+
+Kai: People always expects the mistress to be a beautiful seductress, but most of the time she's just a normal woman desperate to be loved, in whatever way she can get.
+
+Elanor: *breaks into a shy smile* she has charm, I'll give you that. 
+
+
+`Elanor confronts Ken`
 
  Elanor: it's just... we were going to work things out. He finally agree to see counseling together.
 
 Kai: Uh no, not the one next door? She's a quack, just skip the formalities and go see the one in the basement if you really want to fix your marriage.
 
+`Elanor w/ Diane's stuff`
+
+
 Kai: Did you kill Kenji Ishida?
 
-Elanor: *looks down and diverts her gaze*
+Elanor: *looks down and diverts her gaze* It was an accident
+
+# Intermission
+
+> Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
 
 # S 4: night Diane
 > Elanor's feelings from the last scene are reflected back
