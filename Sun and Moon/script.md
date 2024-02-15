@@ -257,19 +257,40 @@ Diane: I guess I wanted closer. Even if I knew why, I still needed to hear the w
 
 Shadow Elanor: *looks over a Pucca & Garu dufflel bag* So that's everything?
 
-Shadow Kens: *nods*
+Shadow Kens: *nods and walks off stage*
 
-Elanor: After I give her back her things, I think great this woman will be out of our lives.
+Elanor: After I give her back her things, I thought "great this woman will be out of our lives."
 
+Shadow Elanor pulls out a silk the bag slowly
 
-- [ ] Elanor w/ Diane's stuff
+Elanor:  I couldn't help to wonder what Ken saw in Diane.
 
+Shadow Elanor puts the scarf on herself, and twirls around in front of the mirror.
 
+Elanor: What he did with Diane.... *close her eyes*
 
+Shadow Elanor summons a Shadow Ken from the ground, they dance intimately.
 
-> Kai: Did you kill Kenji Ishida?
-> 
-> Elanor: *looks down and diverts her gaze* It was an accident
+Elanor: How he'll touch her
+
+Shadow Ken pulls Shadow Elanor close, their shadows combine. When they part it is Shadow Diane and Shadow Ken, Shadow Elanor is in the middle.
+
+Elanor: I let my mind play games with me. *shaking her head in tears* I'll just imagine the worst!
+
+Shadow Diane and Shadow Ken dance around Shadow Elanor.
+
+Elanor: The way she sounds
+
+Shadow Diane takes the front
+
+Elanor: What her skin feels like
+
+Shadow Elanor reaches out to Shadow Diane. Shadow Diane pulls her into a dance.
+Shadow Ken fades back away.
+
+Shadow Elanor and Shadow Diane dance an epic tango. It ends with a kiss.
+
+We zoom into Elanor opening her eyes in shock.
 
 # Intermission
 
@@ -279,7 +300,18 @@ Elanor: After I give her back her things, I think great this woman will be out o
 > Elanor's feelings from the last scene are reflected back
 > Diane is wearing the same shaw as Elanor from the previous scene.
 
-Diane: No, because I killed Kenji Ishida.
+
+> Kai: When was the last time you saw Ken?
+> Diane falls for it and tells them about when she went to visit Elanor,
+> after she senses something is wrong.
+
+
+> Kai: Did you kill Kenji Ishida?
+> 
+> Elanor: *looks down and diverts her gaze* It was an accident
+
+
+> Diane: No, because I killed Kenji Ishida.
 
 # S 5: 6am Kai solves the case
 

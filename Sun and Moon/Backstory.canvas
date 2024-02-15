@@ -19,7 +19,8 @@
 		{"id":"13fd39e00bac2586","type":"text","text":"Diane & Elanor start hanging out.\n\nDiane helps Elanor figure out what she's been missing in young adult life.","x":-125,"y":990,"width":250,"height":220,"color":"6"},
 		{"id":"6ad870a21d4eaa46","type":"text","text":"Their relationship doesn't improve, it just grows more bitter.\n\nElanor realizes she wants to start living her life w/out Ken.","x":-440,"y":2160,"width":250,"height":210,"color":"5"},
 		{"id":"69fb069f6dd900ca","type":"text","text":"Diane starts falling for Elanor too. But they don't do anything because Diane doesn't want to be caught in another affair.","x":-125,"y":1560,"width":250,"height":150,"color":"6"},
-		{"id":"4ed96806cef0ca73","type":"text","text":"How does Elanor find out?","x":-460,"y":-200,"width":560,"height":60}
+		{"id":"4ed96806cef0ca73","type":"text","text":"How does Elanor find out?","x":-460,"y":-200,"width":560,"height":60},
+		{"id":"05ab435422d6ecea","x":-125,"y":1300,"width":250,"height":60,"color":"2","type":"text","text":"Elanor is Clare Sun"}
 	],
 	"edges":[
 		{"id":"54111c6dbcdd6224","fromNode":"375549825a0f485b","fromSide":"right","toNode":"836841cf4ce07dc8","toSide":"left"},
