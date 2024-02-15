@@ -318,7 +318,7 @@ Elanor: Yes, but this was more acute. She looks like she hasn't showered in days
 
 # 10. Diane
 
-Diane: I saw the way she looked at me and my life. I didn't want her to pity me.
+Diane: I saw the way she looked at me and my apartment. I didn't want her to pity me.
 
 
 
