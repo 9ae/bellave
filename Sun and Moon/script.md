@@ -162,7 +162,7 @@ Kai: People always expects the mistress to be a beautiful seductress, but most o
 
 Elanor: *sighs and softens her eyes*, yea, Diane... is the type to open her heart to just about anyone. *lost in a daze*
 
-# S: Diane
+# S 4: Diane
 
 Kai: Did you know who she was?
 
@@ -176,7 +176,7 @@ Kai: Did she?
 
 Diane: *started to gather herself a bit* No, she...
 
-# S: Elanor
+# S 5: Elanor
 
 Elanor: I lost it and broke down crying at her doorstep that afternoon. She invited me in, a stranger, who had every reason to hurt her. She drew up a warm face towel, and brewed tea.
 
@@ -244,16 +244,16 @@ Kai: Uh no, not the one next door? She's a quack, just skip the formalities and 
 
 Elanor: If only we knew that sooner... so we really tried to work things out. I told him to never see Diane again.
 
-# S: Diane
+# S 6: Diane
 
 Diane: That night Ken called me four times. The first three times, I let it go to voicemail. I knew what was coming.
 
 Kai:  Why did you finally answer.
 
-Diane: I guess I wanted closer. Even if I knew why, I still needed to hear the words from him.
+Diane: I guess I wanted closure. Even if I knew why, I still needed to hear the words from him.
 *holds the veil on her hat over her eyes* he said he wanted to give me back my things.
 
-# S: Elanor
+# S 7: Elanor
 
 Shadow Elanor: *looks over a Pucca & Garu dufflel bag* So that's everything?
 
@@ -275,7 +275,7 @@ Elanor: How he'll touch her
 
 Shadow Ken pulls Shadow Elanor close, their shadows combine. When they part it is Shadow Diane and Shadow Ken, Shadow Elanor is in the middle.
 
-Elanor: I let my mind play games with me. *shaking her head in tears* I'll just imagine the worst!
+Elanor: I let my mind play games with me. *shaking her head in tears* Always imagining the worst!
 
 Shadow Diane and Shadow Ken dance around Shadow Elanor.
 
@@ -286,11 +286,41 @@ Shadow Diane takes the front
 Elanor: What her skin feels like
 
 Shadow Elanor reaches out to Shadow Diane. Shadow Diane pulls her into a dance.
-Shadow Ken fades back away.
+Shadow Ken fades backwards and disappears.
 
 Shadow Elanor and Shadow Diane dance an epic tango. It ends with a kiss.
 
 We zoom into Elanor opening her eyes in shock.
+
+# S 8: Diane
+
+Diane: A few days later, Elanor who came to drop off my things. I almost wanted ask her to leave it at the door. I couldn't bare for anyone to see me that day.
+
+Kai: Why not?
+
+Diane: Since Ken's call I haven't left my house. *looks down* But I didn't want to treat her like a deliveryman during the pandemic.
+
+# S 9: Elanor
+
+Elanor: When I waited at Diane's door my heart was pounding. I was more nervous than when I went to find out who's the woman my husband is seeing.
+
+Kai: How is this different?
+
+Elanor: It was a weird mix of excitement, nervous, and strange sadness. This will be the last time I will see her, only having just met her. I feel I might be missing out on the chance of something... I don't know.
+
+Kai: You two did have a deep conversation last time you talked.
+
+Elanor: Yes. When she opened the door, I saw someone I didn't want to recognize. My mother had depression when we were growing up. She'll do her duties as a wife and mother, then after that sleep all day.
+
+Kai: And you saw it in Diane.
+
+Elanor: Yes, but this was more acute. She looks like she hasn't showered in days. When I came into her apartment, I saw one of Ken's sweaters. I bet she's been living in it, and only took it off when she saw it was me at the door.
+
+# 10. Diane
+
+Diane: I saw the way she looked at me and my life. I didn't want her to pity me.
+
+
 
 # Intermission
 
@@ -309,7 +339,7 @@ We zoom into Elanor opening her eyes in shock.
 > Kai: Did you kill Kenji Ishida?
 > 
 > Elanor: *looks down and diverts her gaze* It was an accident
-
+> 
 
 > Diane: No, because I killed Kenji Ishida.
 
