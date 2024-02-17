@@ -357,6 +357,21 @@ But through the years of marriage, I've come to learn that it's less about desti
 
 Diane: Is there still magic?
 
+```
+Diane believes in soulmates
+Elanor believes that its more about who we decide to spend our lives with
+How do their different perspectives collide?
+More importantly, how do they find common ground?
+
+What are their different live experiences that lead them to their beliefs?
+Elanor's parents are disinterested in eachother and tolerate eachother. But at the same hand, she never saw it as bad. And just believe that's the way marriage is suppose to be. You stick together for the children, for the peace of a community. Elanor's choices to marry Ken and uphold traditions is out of wanting to keep the stability.
+
+Diane's was raised by her mom. Her mom believe that she had already found the one, and he died. Having never seen her parents in a real relationship, she only had stories to model her vision of romance from.
+She's idealistic, she wants a story book romance.
+
+Diane teaches Elanor to dream, and Elanor keeps Diane grounded.
+
+```
 
 
 
