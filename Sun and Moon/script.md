@@ -383,7 +383,47 @@ Diane teaches Elanor to dream, and Elanor keeps Diane grounded.
 
 ```
 
+# D: Interview room
 
+Diane: I knew she had her own reason for being so invested in my love life. But it was still nice having support while trying to date.
+
+# Elanor and Diane at a wine bar
+
+- [ ] a song comes on, the violinist is out for the day. Diane ask if she still plays, and Elanor ends up filling in that night.
+- [ ] They talk about their hopes and dreams
+
+# Elanor and Diane at a concert.
+
+- [ ] They see a public proposal.
+- [ ] Diane cries, Elanor e
+- [ ] ncourages Diane to accept her girly side
+
+# They watch Love & leashes together
+
+*Towards the end*
+
+Elanor: I think everyone deserves that. To find a partner who won't shame them for being who they are.
+
+Diane: Ken used to say, because I'm bi, that he fears I'll leave him for a woman, ---
+
+Elanor: Because he doesn't think he'll be enough for you.
+
+Diane: *shocked that Elanor finished her sentence*
+
+Elanor: *looks back at Diane*, yea me too.
+
+Diane: I didn't know.. I thought he was your first.
+
+Elanor: Technically yes, the first and only partner. This was a long time ago, before we started dating. At our church, I got really close with the pastor's daughter. And when her parents found out, our family had to go to another church afterwards.
+
+Diane: Was your family that religious.
+
+Elanor: Yea, but it wasn't just about faith. It was finding community after immigrating. My parents were so ashamed, they knew the other families will talk about them once they left.
+The weirdest things is they spoke to me about why we had to leave. It was like they didn't know how to ask if I was gay.
+
+Diane: But you're not...?
+
+Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about leaving our church, they said we had to because the pastor's daugther and I were bad influences on eachother. 
 
 # Intermission
 
