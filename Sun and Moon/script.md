@@ -316,10 +316,44 @@ Kai: And you saw it in Diane.
 
 Elanor: Yes, but this was more acute. She looks like she hasn't showered in days. When I came into her apartment, I saw one of Ken's sweaters. I bet she's been living in it, and only took it off when she saw it was me at the door.
 
-# 10. Diane
+# 10. Diane's apartment
+
+Elanor: Ken wanted to come see you to give these things back. But I felt it will be easier for us all, if he didn't.
+
+Diane: *nods* 
+
+- [ ] Somehow Elanor talks herself into the apartment
 
 Diane: I saw the way she looked at me and my apartment. I didn't want her to pity me.
 
+*Her couch has a big weighted blanket, Ken's sweater, plushies, and pillows. It looks as if she migrated the contents of her bed into the couch. There is a start contrast between the sparking clean kitchen with a vitamix, bowl of fruits. Line up as almost ritualistically are empty liquor and wine bottles. It was a space that was normally clean and minimalist, that acquuired a new found clutter.* 
+
+Elanor: *picks up an empty wine bottle* oh! I love this too. Have you tried their orange wine?
+
+Diane: No, I haven't. I only drink reds.
+
+Elanor: Even in the summer? You know, it's okay to like sweet things one in a while.
+
+Diane: *sheepish smile*
+
+Elanor: I know, I'm not your favorite person right now.
+
+Diane: *starts picking up the clutter around the room, not looking at Elanor* I don't blame you. It was bond to happen. *She throw them in the recycle bing* It would have been silly to think our relationship could have turned out any differently.
+
+Elanor: Maybe go for someone who's single next time?
+
+Diane: *sighs* Don't think my heart has capacity for a next time.
+
+Elanor: Just give it time.
+
+Diane:*shakes her head* no, it's not just this. It's all of it, I'm tired of trying to find the one.
+
+Elanor: Do you still believe that exist? The one?
+
+Diane: Even if it doesn't, I feel it's the delusion we must tell ourselves to keep going.
+
+Elanor: Even if it doesn't we can still keep going. When we got married, I thought I had found the one.
+But through the years of marriage, I've come to learn that it's less about destiny but choice.
 
 
 # Intermission
