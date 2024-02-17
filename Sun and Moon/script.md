@@ -355,6 +355,10 @@ Diane: Even if it doesn't, I feel it's the delusion we must tell ourselves to ke
 Elanor: Even if it doesn't we can still keep going. When we got married, I thought I had found the one.
 But through the years of marriage, I've come to learn that it's less about destiny but choice.
 
+Diane: Is there still magic?
+
+
+
 
 # Intermission
 
