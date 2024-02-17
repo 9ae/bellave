@@ -355,7 +355,15 @@ Diane: Even if it doesn't, I feel it's the delusion we must tell ourselves to ke
 Elanor: Even if it doesn't we can still keep going. When we got married, I thought I had found the one.
 But through the years of marriage, I've come to learn that it's less about destiny but choice.
 
-Diane: Is there still magic?
+Diane: Like the act of me being on the apps in a choice? I am making an effort to find the one by seeeking it rather than waiting?
+
+Elanor: Some what. How do you figure out if someone is the one?
+
+Diane: It's just a feeling. I haven't really had that feeling with anyone in a very long time.... well I've had with Ken, but...
+
+Elanor: Does the feeling tell you if you guys will be compatiable or not?
+
+Diane: *thinks for a long moment* probably not.
 
 ```
 Diane believes in soulmates
