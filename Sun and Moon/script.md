@@ -363,7 +363,9 @@ Diane: It's just a feeling. I haven't really had that feeling with anyone in a v
 
 Elanor: Does the feeling tell you if you guys will be compatiable or not?
 
-Diane: *thinks for a long moment* probably not.
+Diane: *thinks for a long moment* probably not. 
+
+Elanor: Why don't you try my approach to dating for a while, and let me know how it turns out.
 
 ```
 Diane believes in soulmates
