@@ -429,6 +429,9 @@ Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about
 
 > Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
 
+
+![[intermission.png]]
+
 # S 4: night Diane
 > Elanor's feelings from the last scene are reflected back
 > Diane is wearing the same shaw as Elanor from the previous scene.
