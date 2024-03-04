@@ -1,6 +1,13 @@
 
 ---
 
+# Edit Notes
+
+- [ ] Move intermission scene to earlier
+- [ ] Turn the first half into film style w/ flashbacks
+- [ ] Change the point when Elanor realizes Ken's having an affair, where she shares a feeling that Diane have. Their voice overs from talking to Kai. They both have arrived at the same feel, and say it at the same time (camera points to just Kai's expression)
+
+
 We think it's Elanor the whole time, but turns out they both conspired together.
 Diane brought Ken to the street where Elanor drove the car.
 
@@ -387,16 +394,86 @@ Diane teaches Elanor to dream, and Elanor keeps Diane grounded.
 
 Diane: I knew she had her own reason for being so invested in my love life. But it was still nice having support while trying to date.
 
-# Elanor and Diane at a wine bar
+# Elanor and Diane at a Alley Pond Park
 
-- [ ] a song comes on, the violinist is out for the day. Diane ask if she still plays, and Elanor ends up filling in that night.
-- [ ] They talk about their hopes and dreams
+![[Artboard 0.png]]
 
-# Elanor and Diane at a concert.
+- [ ] Use a more exciting/relatable dating story that can still be summed up in in a short exchange.
 
-- [ ] They see a public proposal.
-- [ ] Diane cries, Elanor e
-- [ ] ncourages Diane to accept her girly side
+Elanor: And then he just left?! After you threw up?
+
+Diane: Yea, he guessed nothing was happening that night.
+
+Elanor: Wow, guys these days, glad to not be still dating.
+
+Diane: *silent for a short moment* yea, you're lucky.
+
+![[Artboard 1.png]]
+
+Elanor: Maybe, if things don't work out with our couple's counselor. I could be out in the wild with you.
+
+Diane: How is that going by the way?
+
+Elanor: *sighs*
+
+Diane: Sorry! It was just a natural follow up question. It's none of my business. I'm supposed to be out of your lives
+
+![[Artboard 2.png]]
+
+Elanor: Without you in our, Ken and I would have never realized all that we've ignored up until now.
+
+Diane: What realizations?
+
+![[Artboard 4.png]]
+
+- [ ] This realization feels forced
+
+Elanor: In the decade we've been together means we grew up together, college, marriage. All of these milestones we hit together. While people our age were finding themselves, we were finding how to exist together. It made us more mature. But I can't help to wonder who Elanor Moon could have been if she didn't become...
+
+![[Artboard 5.png]]
+
+Kid: Mrs. Ishida!
+
+![[Artboard 6.png]]
+
+Kid's mom: Get back to the field! Your teammates are waiting!
+*turns to Elanor* Sorry, you're just his favorite extra curricular teacher.
+
+Elanor: He's really improving, I can see how much he practices.
+
+Kid's mom: We are so lucky to find such a talented Julliard grad like yourself!
+
+Elanor: Where I was went to school has nothing to do with your son's dedication. He's really improved so much since last year.
+
+Kid's mom: Yes, it's gotten less painful hearing him practice now. Haha. We'll see you next Thursday.
+
+*Cut to Elanor and Diane walking along the pond. It is late spring, the trees are in bloom, petals are falling*
+
+![[Artboard 7.png]]
+
+- [ ] Them talking about dreams
+
+![[Artboard 8.png]]
+
+*They see it's an engagement*
+
+![[Artboard 9.png]]
+
+Elanor: Isn't that lovely.
+
+Diane: *starts tearing up*
+
+Elanor: Aw, you're touched too.
+
+Diane: No, it's just allergies
+
+Elanor: It's ok to cry
+
+Diane: I know, but not over sappy stuff
+
+Elanor: *giggles* I be you cry over rom-coms too.
+
+Diane: I don't watch rom-coms
 
 # They watch Love & leashes together
 
@@ -428,6 +505,7 @@ Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about
 # Intermission
 
 > Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
+
 
 
 ![[intermission.png]]

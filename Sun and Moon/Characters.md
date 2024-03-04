@@ -8,6 +8,8 @@ She's kindergarten teacher
 
 - [ ] What is Elanor's family like? How does that effect how she views her marriage with Ken?
 
+> Sailor Neptune
+
 ## Diane Sun
 Ice queen, says everything with a straight face
 Is carefree
@@ -15,6 +17,8 @@ Jaded but still hopefully idealistic
 Sits with her knees crossed. She's in mourning dress, because she's not allowed to go to the funeral.
 
 Diane wants a meet cute, she wants the story with her soulmate to be a story you can tell.
+
+> Sailor Jupiter
 
 ## Kenji Ishida
 ## Kai
