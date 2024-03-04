@@ -177,7 +177,7 @@ Diane: No, at first I though she was some bible peddler. They still do that you 
 
 *Shadows: Elanor steps forward and closes in on Diane, she puts her nose towards Diane's neck.*
 
-Diane: Then she said "why do I smell my husband's after shave on you?" And I can tell it wasn't a question. *her face started to turn red* It all came crumbling in. *hiccup* The reality of what I thought was my romance. *hiccup* all this time his wife felt like an abstract concept, but there she was right in front of me. If she were to physically hurt me, right then and there. I would have let her.
+Diane: Then she said "why do I smell my husband's aftershave on you?" And I can tell it wasn't a question. *her face started to turn red* It all came crumbling in. *hiccup* The reality of what I thought was my romance. *hiccup* all this time his wife felt like an abstract concept, but there she was right in front of me. If she were to physically hurt me, right then and there. I would have let her.
 
 Kai: Did she?
 
@@ -201,37 +201,7 @@ Elanor: I sometimes wonder how my life would have turned out, if Ken and I didn'
 
 Diane: You two were lucky, the rest of us out there are trying to find the one in an ocean of a endless choices. It's the endless choices that makes commitment hard.
 
-Elanor: Hah, you can say that but... did you know I got into Julliard? What if I had persuade being a professional violinist instead of getting a masters in education.
-
-Diane: Do you still play?
-
-Elanor: I wish, if only there was more time. One thing they never tell you is that homework never ends, even if you aren't the student.
-
-Diane: Do you regret being a teacher?
-
-Elanor: The kids are sweet, but I mostly regret marrying. Because if I didn't our family would have let me pursue music. But they said it's better this way. Ken works very hard at stressful job, while I provide stability with mine.
-
-Diane: Yea, his boss is always breathing down his neck.
-
-Elanor: When he gets home, he's just a zombie. But I tell myself maybe that's ok, and maybe he won't notice, my doubts about our marriage.
-
-Diane: How long have you been feeling this way?
-
-Elanor: I can't remember. But when I feel this way I scold myself for not appreciating the life I do have.
-
-Diane: You can't help the way you feel. And you can't force yourself into a feeling a certain way, just because that's what you think you should feel.
-
-Elanor: What if the way I feel will hurt him? I can't let him know.
-
-Diane: But he knows something is up, he seems to think you're planning to leave him.
-
-*the music stops, the two dancers separate*
-
-Elanor: Is that why?
-
-Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
-
-*The shadow dancers fade and we come back into focus with Elanor and Kai in the room*
+- [ ] replace seen that was taken out to Alley Pond Park. Probably about bonding over how they've been feeling about their respective relationships
 
 `Elanor confronts Ken`
 
@@ -451,7 +421,42 @@ Kid's mom: Yes, it's gotten less painful hearing him practice now. Haha. We'll s
 
 ![[Artboard 7.png]]
 
-- [ ] Them talking about dreams
+Diane: Wow you must have been really good to get a into Julliard. What was it for?
+
+Elanor: I wanted to be a concert violinist. *chuckles* I can't believe my parents were supportive, but I guess they got to brag about me during those years.
+
+Diane: Do you still play?
+
+Elanor: I wish, if only there was more time. One thing they never tell you is that homework never ends, even if you aren't the student.
+
+Diane: Do you regret being a teacher?
+
+Elanor: The kids are sweet, but I mostly regret marrying. Because if I didn't our family would have let me pursue music. But they said it's better this way. 
+
+Ken works very hard at stressful job, while I provide stability with mine.
+
+Diane: Yea, his boss is always breathing down his neck.
+
+Elanor: When he gets home, he's just a zombie. But I tell myself maybe that's ok, and maybe he won't notice, my doubts about our marriage.
+
+Diane: How long have you been feeling this way?
+
+Elanor: I can't remember. But when I feel this way I scold myself for not appreciating the life I do have.
+
+Diane: You can't help the way you feel. And you can't force yourself into a feeling a certain way, just because that's what you think you should feel.
+
+Elanor: What if the way I feel will hurt him? I can't let him know.
+
+Diane: But he knows something is up, he seems to think you're planning to leave him.
+
+Elanor: Is that why?
+
+Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
+
+*a moment of silence passes between them*
+
+Elanor: What if I had persuade being a professional violinist instead of getting a masters in education.
+
 
 ![[Artboard 8.png]]
 
