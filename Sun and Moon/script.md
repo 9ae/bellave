@@ -515,10 +515,22 @@ Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about
 
 ![[intermission.png]]
 
-# S 4: night Diane
+
+
 > Elanor's feelings from the last scene are reflected back
 > Diane is wearing the same shaw as Elanor from the previous scene.
 
+# Diane brings Elanor to an abandoned opera house
+
+- [ ] Elanor plays here
+- [ ] Diane brings up the fellowship
+
+
+# Elanor brings up the followship to Ken
+
+- [ ] They get into a fight
+
+# Diane in present talking to Kai
 
 > Kai: When was the last time you saw Ken?
 > Diane falls for it and tells them about when she went to visit Elanor,
