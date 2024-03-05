@@ -457,6 +457,8 @@ Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
 
 Elanor: What if I had persuade being a professional violinist instead of getting a masters in education.
 
+- [ ] Elanor writes solo songs, but doesn't have anyone to share them with
+
 
 ![[Artboard 8.png]]
 
@@ -522,11 +524,44 @@ Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about
 
 # Diane brings Elanor to an abandoned opera house
 
-- [ ] Elanor plays here
-- [ ] Diane brings up the fellowship
+*In black screen*
 
+Elanor: And the point of this is?
 
-# Elanor brings up the followship to Ken
+Diane: I swear, it's safe. Just a little more.... Ouch!
+Oh here
+
+*a trap door swings open, and dim light floods the room. Elanor and Diane merges from on to a stage, in what seems to be an abandoned concert hall.*
+
+Elanor: *looks around in amazement* How did you find this place?
+
+Diane: A someone took me here once a few years ago. Dating all that bad, sometimes you meet people who know of cool places. 
+
+Elanor: Wow, I never knew... right here in the edge of the city.
+
+Diane: *brings up a violin case* I know an electric one isn't a good, but we don't want to draw attention to ourselves.
+
+Elanor: *pulls out the violin*
+
+Diane: *putting on a pair of headphones, she whispers to Diane's ear* Play me something you wrote.
+
+*Elanor fiddles with the strings, and puts on her own headphones. Diane jumps off the stage and into a chair. The space between them is filled with music*
+
+# Elanor drives them back
+
+Diane: How did that feel?
+
+Elanor: It was as if a part of myself that was hibernating woke up again.
+
+Diane: Would you want it to stay awake?
+
+Elanor: You mean go back to that place?
+
+Diane: *shakes her head*, there's this fellowship for adult non-professional composers. I think you should apply. It is in the summer, in Florence, so it won't interrupt school.
+
+Elanor: Maybe, I'll have to talk to Ken.
+
+# Elanor brings up the fellowship to Ken
 
 - [ ] They get into a fight
 
