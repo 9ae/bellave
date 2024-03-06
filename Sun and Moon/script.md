@@ -563,7 +563,15 @@ Elanor: Maybe, I'll have to talk to Ken.
 
 # Elanor brings up the fellowship to Ken
 
-- [ ] They get into a fight
+*After dinner they are washing dishes.*
+
+Ken: Dr. _ saids we should spend some days apart. They said absence makes the heart grow founder. I am thinking about visiting my brother in Maine next weekend.
+
+Elanor: I'm thinking about applying for a fellowship in Florence of the summer.
+
+Ken: *drops the dish he is drying* What?!
+
+
 
 # Diane in present talking to Kai
 
