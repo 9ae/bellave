@@ -571,6 +571,40 @@ Elanor: I'm thinking about applying for a fellowship in Florence of the summer.
 
 Ken: *drops the dish he is drying* What?!
 
+Elanor: We talked about how we need time to discover ourselves, and you know that if we hadn't gotten married, I would have contiue with making music.
+
+Ken: You want to see what it's like if i was never in your life.
+
+Elanor: No, it's not about you. Or even us. This just feels like soemthing I need to do for myself.
+
+Ken: Sure, but all this is for us to work on us. How are we suppose to do that when we've got an ocean between us?!
+
+# Interview room
+
+Kai: Did you want Elanor away for the summer for a reason?
+
+Diane: What?! No!
+
+Kai: Maybe you think you'll have another shot with Ken with her gone?
+
+Diane: I haven't seen or talked to Ken all this time!
+
+Kai: Your cellphone records say something very different. It showed that you called him two days before he disappeared.
+
+Diane: *caught in a lie* I was
+
+Kai: It also showed you called Ms Moon several times before?
+
+Diane: I was worried. About Elanor, you know that feeling when something just doesn't feel right,
+I tried calling her, but she didn't answer. She's normally home around taht time, so I tried calling Ken.
+
+Kai: Did he answer?
+
+Diane: No, so I went to there house.
+
+# Diane knockin on their house door
+
+
 
 
 # Diane in present talking to Kai
