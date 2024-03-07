@@ -618,27 +618,97 @@ Elanor: No! Leave her alone.
 
 Diane: *towards Elanor* Go! I can handle this.
 
-Diane: *knees him in the stomach and jumps up*
+Diane: *knees him in the stomach*
 
-Ken: *backs off*
+Ken: *winces in pain, but takes a fallen table lamp and knocks Diane back down*
 
+*Diane starts bleeding*
 
+Ken: *goes for another blow, but is interupted by Elanor*
 
+Elanor: Put that down!
 
-# Diane in present talking to Kai
+*Elanor is holding a kitchen knife*
 
-> Kai: When was the last time you saw Ken?
-> Diane falls for it and tells them about when she went to visit Elanor,
-> after she senses something is wrong.
+# Interview room with Elanor
 
+Kai: Did you kill Kenji Ishida?
+ 
+Elanor: *looks down and diverts her gaze* It was an accident
 
-> Kai: Did you kill Kenji Ishida?
-> 
-> Elanor: *looks down and diverts her gaze* It was an accident
-> 
+# Back in their house
 
-> Diane: No, because I killed Kenji Ishida.
+Ken: *turns to Elanor, and looks at Diane, then back at his wife. His face dawns with realization*
 
-# S 5: 6am Kai solves the case
+Elanor: I said! Put that down!
 
-> Ends with Diane pulling up in a convertable. Reveals Elanor walking down the steps of of the agency, shows they are next to a marriage counseling therapist, and an adult toys store. Elanor kisses Diane.
+Ken: *chuckles* you two... You know each other. *shakes his head* How?! *turning to Elanor* Do you know who she is? She's the reason we're seeing that crack counselor every week!
+
+Elanor: Oh, we were having problems way before you started sticking your tongue down Diane's throat.
+
+Ken: How are you on her side?!
+
+Elanor: I'm not, but for the first time I'm Team Elanor Moon.
+
+Diane: That's right, and I'm Team Elanor too. *steps next to Elanor* You've decieved both of us. You've kept us apart. But we won't let you keep us at odds.
+
+Ken: Women...
+
+Elanor: Stand by each other. Who's your friend, huh?
+
+Diane: He told me, he doesn't have any these days.
+
+Ken: You... *takes a swing at Diane*
+
+*blood splatters on the camera*
+
+*Next scene we see Ken with a knife sticking out of his heart*
+
+# Interview room w/ Diane
+
+Kai: Ok, I need you tell me directly. Did Elanor Moon kill her husband.
+
+Diane: No, because I killed Kenji Ishida.
+
+Kai: Why are you two covering for eachother?
+
+# Interview room w/ Elanor
+
+Elanor: I'm not. I am just telling the truth.
+
+Kai: I don't know what is the truth anymore.
+
+# Kai in filing room a lone with the documents
+
+Kai (narration): Kisaki, your brother was a complicated man.
+
+Diane walks down the steps of the 3 story building that houses the detective agency.
+
+Kai: He was also a very lonely man.
+
+Diane and Elanor cleaning up the blood from the scene.
+
+Kai: After college, after marriage he lost touch with his friends. Like most men his age, he dependent on his wife for all of his emotional needs.
+
+Elanor crying on Dianes shoulder.
+
+Kai: Though kind and giving, his wife had doubts of the life she stumbled into, ashamed she distanced herself from him.
+
+In the middle of the night they take Ken's body to the car.
+
+Kai: Lonely in this life, he started holding secrets of his own.
+
+Elanor driving nervous, Diane puts her hands on her shoulders and gives her squeze.
+
+Kai: But it ate him up inside, he felt trapped, yet afraid to leave. He worried that no matter what he did, he'll hurt someone.
+
+They place Ken in the driver's seat.
+
+Kai: And he couldn't live know that he caused so much pain.
+
+The car speeds into the abandoned opera house, and upon crashing explodes.
+
+Kai: I know this is not the answer you wanted to your questions.
+
+Diane steps into the bright morning, we reveal the building of the detective agency has a marriage counselor's office, and in the basement is an adult toy shop. Elanor rolls up in a black cadalliac, Diane takes off the scarf and wraps it around Elanor pulling her close. Elanor leans in for a kiss.
+
