@@ -600,9 +600,27 @@ I tried calling her, but she didn't answer. She's normally home around taht time
 
 Kai: Did he answer?
 
-Diane: No, so I went to there house.
+Diane: No, so I went to their house.
 
-# Diane knockin on their house door
+# Diane knocks on their house door
+
+*Diane rings the door bell and waits. Then she hears dishes being broken and Ken yelling. She steps back and kicks open the door.*
+
+*Camera goes through the open door to reveal Elanor and Ken having a physical fight. Elanor is bruised in the cheek, and Ken has a little blood on one of his eybrows. They notice Diane has come in*
+
+Ken: *turns around to Diane* You... this is all your fault.
+
+Diane: *steps back, but trips on something on the floor*
+
+Ken: *steps over her*
+
+Elanor: No! Leave her alone.
+
+Diane: *towards Elanor* Go! I can handle this.
+
+Diane: *knees him in the stomach and jumps up*
+
+Ken: *backs off*
 
 
 
